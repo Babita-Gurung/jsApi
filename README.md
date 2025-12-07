@@ -1,4 +1,4 @@
 # jsApi
-this is a fecth api project
+this is a fetch api project
 pushing code from my local
 testing initial commit
